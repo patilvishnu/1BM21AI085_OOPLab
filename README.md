@@ -17,6 +17,10 @@
 
 ![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/1c000ecd-fc5f-4ba1-989f-4fa1a91882e0)
 
+5 To get all the palindrames in a string?
+![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/1678124e-b1dd-4883-8280-0b4a4d166ed6)
+
+
 
 
 
