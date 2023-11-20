@@ -20,6 +20,11 @@
 5 To get all the palindrames in a string?
 ![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/1678124e-b1dd-4883-8280-0b4a4d166ed6)
 
+6 Create empty classes and check by instantiating
+
+![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/7a5dc803-939a-4da9-be2e-bed6fc89b7a8)
+
+
 
 
 
