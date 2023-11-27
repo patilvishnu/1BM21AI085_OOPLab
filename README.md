@@ -42,6 +42,10 @@
 10 Write a program to count number of instances using class method
 ![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/350f973f-a729-4063-88d7-4d6936b52d0b)
 
+11 Write aprogram to print two complex numbers
+![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/20ffaaa3-a442-4c42-8f3d-65b43537cfaf)
+
+
 
 
 
