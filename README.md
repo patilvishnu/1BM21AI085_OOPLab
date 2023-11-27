@@ -34,6 +34,15 @@
 
 ![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/ff95a398-ff33-4c9e-9678-4418398fdf19)
 
+27_Nov_2023
+
+9 Create a calculator class using static method
+![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/3fe8605c-acf1-43b2-b7e8-3232009d60ed)
+
+10 Write a program to count number of instances using class method
+![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/350f973f-a729-4063-88d7-4d6936b52d0b)
+
+
 
 
 
