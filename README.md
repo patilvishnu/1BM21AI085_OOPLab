@@ -45,6 +45,12 @@
 11 Write aprogram to print two complex numbers
 ![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/20ffaaa3-a442-4c42-8f3d-65b43537cfaf)
 
+18-DEC-2023
+
+12 Vehicle using abstract class
+![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/2810c901-f073-4f16-8090-3bf6bf3e6174)
+
+
 
 
 
