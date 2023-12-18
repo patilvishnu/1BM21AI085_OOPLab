@@ -50,6 +50,10 @@
 12 Vehicle using abstract class
 ![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/2810c901-f073-4f16-8090-3bf6bf3e6174)
 
+13 Create a class using credit card
+![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/fe1694e4-9758-4c66-afce-f697146c9e37)
+
+
 
 
 
