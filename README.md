@@ -56,6 +56,12 @@
 14 car using ABC
 ![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/377ecb25-0fab-4455-9018-a9a70f2acbee)
 
+15 creating exceptions
+<img width="704" alt="image" src="https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/e5ab5cc9-1b99-4f51-9859-7156222f6e1c">
+<img width="648" alt="image" src="https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/da89d590-a764-4118-9461-1f591af27c68">
+
+
+
 
 
 
