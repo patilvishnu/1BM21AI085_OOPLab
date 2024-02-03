@@ -57,8 +57,40 @@
 ![image](https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/377ecb25-0fab-4455-9018-a9a70f2acbee)
 
 15 creating exceptions
+a)
+
 <img width="704" alt="image" src="https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/e5ab5cc9-1b99-4f51-9859-7156222f6e1c">
 <img width="648" alt="image" src="https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/da89d590-a764-4118-9461-1f591af27c68">
+
+b)
+
+<img width="683" alt="image" src="https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/4f411392-09a2-4b34-a8e9-fdc789bc503b">
+
+16) pygame
+    <img width="714" alt="image" src="https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/4a247f62-470e-4984-a229-982a034440d5">
+    
+17)generating a random number square or cube
+
+<img width="680" alt="image" src="https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/8bfc2fd0-4328-47f1-98e2-b64b3758bc72">
+
+<img width="669" alt="image" src="https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/71af85e7-2d1e-4c40-b159-7ae70baba2a3">
+
+18)Vegetable market
+
+<img width="960" alt="image" src="https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/cfc14696-90f1-4b69-82a2-e639ebf27811">
+<img width="960" alt="image" src="https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/ee4c8512-1c3d-4590-81e7-4c6a0c9152e5">
+
+19) Threads
+    
+<img width="960" alt="image" src="https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/c1fa80fe-cddc-4b20-b8f2-decb62bb4ef3">
+<img width="661" alt="image" src="https://github.com/patilvishnu/1BM21AI085_OOPLab/assets/138456159/01d1eec1-3e57-401d-8194-8eb8430c4e8b">
+
+
+
+
+
+
+
 
 
 
